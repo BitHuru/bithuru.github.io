@@ -56,8 +56,8 @@
 
             <!-- Main hero unit for a primary marketing message or call to action -->
             <div class="hero-unit">
-                <h1>Welcome to Bithuru</h1>
-                <p>Bithuru is a pay-what-you-want ZNC service provider.</p>
+                <h1>About Bithuru</h1>
+                <p>Bithuru is a pay-what-you-want ZNC provider founded in 2013 by <a href="http://github.com/thefinn93">thefinn93</a> and <a href="http://github.com/bkerensa">bkerensa</a>. We graciously accept donations towards the operating cost of the service and to allow for future scaling.</p>
                 
             </div>
 

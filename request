@@ -56,8 +56,8 @@
 
             <!-- Main hero unit for a primary marketing message or call to action -->
             <div class="hero-unit">
-                <h1>Welcome to Bithuru</h1>
-                <p>Bithuru is a pay-what-you-want ZNC service provider.</p>
+                <h1>Request Account</h1>
+                <p>Account requests are currently manually processed in #Bithuru on Freenode IRC. Ask an OP for more info!</p>
                 
             </div>
 
